@@ -1,4 +1,4 @@
-        <!-- Footer -->
+      <!-- Footer -->
         <footer id="footer">
             <p class="copyright">&copy; <strong>Rétho pour Oui.TE</strong> <i>2022 - v 0.1.1</i></a></p>
         </footer>
