@@ -1,33 +1,34 @@
 <!DOCTYPE HTML>
 
 <html>
-<?php include("header.php")?>
-	<body class="is-preload">
+<?php include("header.php") ?>
 
-		<!-- Wrapper -->
-			<div id="wrapper">
+<body class="is-preload">
 
-				<!-- Header -->
-					<header id="header">
-						<h1>Bonjour <?php echo("Rétho")?>,</h1>
-						<p>Bienvenue sur le site du générateur de billet !</p>
-					</header>
+	<!-- Wrapper -->
+	<div id="wrapper">
 
-				<!-- Main -->
-					<div id="main">
-<?php include("nav1.php")?>
-<!-- Content--> 
-							<section id="content" class="main special">
-							<h4>Bienvenue sur la bêta v1 de <b>Oui.TE</b>. Le site est actuellement en construction, n'hésitez pas à proposer vos idées pour une amélioration de la plateforme !</h4>
-							<hr />
-							<h3>Actualités de la plateforme :</h3>
-							<p>Pages en cours de construction :
-								- Mon Compte
-								- Ma Compagnie
-								- Utilisateurs & Compagnies</p>
-						</section>
-								<!-- Text -->
-									<!--<section>
+		<!-- Header -->
+		<header id="header">
+			<h1>Bonjour <?php echo ("Rétho") ?>,</h1>
+			<p>Bienvenue sur le site du générateur de billet !</p>
+		</header>
+
+		<!-- Main -->
+		<div id="main">
+			<?php include("nav1.php") ?>
+			<!-- Content-->
+			<section id="content" class="main special">
+				<h4>Bienvenue sur la bêta v1 de <b>Oui.TE</b>. Le site est actuellement en construction, n'hésitez pas à proposer vos idées pour une amélioration de la plateforme !</h4>
+				<hr />
+				<h3>Actualités de la plateforme :</h3>
+				<p>Pages en cours de construction :
+					- Mon Compte
+					- Ma Compagnie
+					- Utilisateurs & Compagnies</p>
+			</section>
+			<!-- Text -->
+			<!--<section>
 										<h2>Text</h2>
 										<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
 										This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
@@ -53,8 +54,8 @@ while (!deck.isInOrder()) {
 print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 									</section>-->
 
-								<!-- Lists -->
-									<!--<section>
+			<!-- Lists -->
+			<!--<section>
 										<h2>Lists</h2>
 										<div class="row">
 											<div class="col-6 col-12-medium">
@@ -133,8 +134,8 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 										</div>
 									</section>-->
 
-								<!-- Table -->
-									<!--<section>
+			<!-- Table -->
+			<!--<section>
 										<h2>Table</h2>
 										<h3>Default</h3>
 										<div class="table-wrapper">
@@ -229,8 +230,8 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 										</div>
 									</section>-->
 
-								<!-- Buttons -->
-									<!--<section>
+			<!-- Buttons -->
+			<!--<section>
 										<h3>Buttons</h3>
 										<ul class="actions">
 											<li><a href="#" class="button primary">Primary</a></li>
@@ -262,8 +263,8 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 										</ul>
 									</section>-->
 
-								<!-- Form -->
-									<!--<section>
+			<!-- Form -->
+			<!--<section>
 										<h2>Form</h2>
 										<form method="post" action="#">
 											<div class="row gtr-uniform">
@@ -315,8 +316,8 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 										</form>
 									</section>-->
 
-								<!-- Image -->
-									<!--<section>
+			<!-- Image -->
+			<!--<section>
 										<h2>Image</h2>
 										<h3>Fit</h3>
 										<div class="box alt">
@@ -340,10 +341,11 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 
 							</section>-->
 
-					</div>
+		</div>
 
-				<!-- Footer -->
-<?php include("footer.php") ?>
+		<!-- Footer -->
+		<?php include("footer.php") ?>
 
-	</body>
+</body>
+
 </html>
