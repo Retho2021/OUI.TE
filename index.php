@@ -58,7 +58,8 @@
                         <h3>En plus clair</h3>
                         <p>Vous cherchez vos trajets (fictifs bien entendu) qui peuvent générer des correspondances"" par deçà un PDF se crée avec : un QR code, un numéro de référence du voyage sera attribué. Ces trajets viennent des compagnies référencées
                             sur Oui.TE issues des données du jeu Train Empire grâce à la clé API qui vous sera demandée immédiatement après la création du compte sur le site.
-                            <strong>Le site ne fonctionne pas sans la clé API !</strong> Vous aurez la possibilité de chercher des trajets pour les autres compagnies ayant un compte TE lié.</p>
+                            <strong>Le site ne fonctionne pas sans la clé API !</strong> Vous aurez la possibilité de chercher des trajets pour les autres compagnies ayant un compte TE lié.
+                        </p>
                     </li>
                 </ul>
                 <footer class="major">
@@ -122,7 +123,7 @@
 
         </div>
 
-<?php include('footer.php'); ?>
+        <?php include('footer.php'); ?>
 
 </body>
 
