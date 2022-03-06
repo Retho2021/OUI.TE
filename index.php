@@ -112,13 +112,13 @@
                 <header class="major">
                     <h2>Recrutement / Bêta test</h2>
                     <p>Nous recherchons des développeurs ayant les capicités en PHP, HTML, et en API, rejoignez le serveur Discord pour candidater.<br /> La Bêta n'est pas encore disponible, rejoignez le serveur pour en savoir plus !</p>
+                    <footer class="major">
+                    <ul class="actions special">
+                        <li><a href="https://discord.gg/VB2MJGR5kM" class="button">Rejoignez le Discord !</a></li>
+                    </ul>
+                </footer>
                 </header>
-                <!--<footer class="major">
-                <ul class="actions special">
-                    <li><a href="generic.html" class="button primary">Get Started</a></li>
-                    <li><a href="generic.html" class="button">Learn More</a></li>
-                </ul>
-                </footer>-->
+
             </section>
 
         </div>
