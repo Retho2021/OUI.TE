@@ -11,7 +11,7 @@
 
         <!-- Header -->
         <header id="header" class="alt">
-            <span class="logo"><img src="images/Oui.TE_original.png" alt="OUI" /></span>
+            <span class="logo"><img src="images/Oui.TE_original.jpg" alt="OUI" /></span>
             <h1>Oui.TE</h1>
             <p>Le générateur de billets par excellence <br /> crée par Rétho pour <a href="https://train-empire.com">Train Empire</a>.</p>
         </header>
