@@ -26,7 +26,7 @@
                 <div class="spotlight">
                     <div class="content">
                         <header class="major">
-                            <h2>Oui.TE - les billets à portée de main.
+                            <h2>Oui.TE - Site externe à TE
                             </h2>
                         </header>
                         <p>Les billets des différentes compagnies fictives de Train Empire seront bientôt matérialisés ! Voyagez en toutes tranquilités avec vos billets !</p>
